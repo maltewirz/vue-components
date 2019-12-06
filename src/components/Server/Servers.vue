@@ -11,3 +11,9 @@
         </ul>
     </div>
 </template>
+
+<style scoped>
+    div {
+        border: solid 1px blue
+    }
+</style>
